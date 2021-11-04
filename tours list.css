@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif!important;
+   }
+  
+nav{
+   background-color:green;
+}
+
+h2{
+   color:white
+}
+.i1{
+   width:15%;
+}
+#collapse{
+ box-shadow:0 2px 2px 1px black;
+   margin-top:10%;
+  
+}
+ #colbtn{
+   font-size: small;
+   margin-top:20px;
+   background-color:rgb(16, 122, 57);;
+   color:white;
+ }
+.small{
+    font-size: small;
+}
+#cf{
+    background-color:rgb(217, 222, 226);
+
+}
+#colm{
+   background-color:rgb(191, 245, 191);
+}
+
+.row9{
+   border-left: 2px solid rgb(44, 43, 43);
+   
+}
+
+#b1, .dp{
+box-shadow:  10px 10px 20px rgba(0, 0, 0, 0.363)
+}
+   .relative{
+      position:relative
+   }
+   .absolute{
+      position: absolute;
+   }
+     #cont{
+      background-color:rgb(36, 58, 14);
+    }
+    #main{
+      width:24%;
+    }
+    .info{
+      color: white;
+      font-size:10px;
+      margin-top:20px;
+      
+    }
+   
+   .col1{
+     width:20%;
+     
+   }
+   .head{
+     color:rgb(50, 163, 50);
+     
+   }
+   ul li{
+    list-style: none;
+    line-height:50px;
+    font-size:small;
+    color:white;
+   }
+   .icon{
+     color: white;
+     font-size: larger;
+   }
+   #brk1, #bk, #rk3 {
+     font-size: small;
+   }
+   .container1-fluid{
+      background-image:url(images/pic2.jpg);
+       min-height: 70vh;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: bottom;
+    }
+    .bit{
+      height: 1.5px;
+      background-color: rgb(0, 0, 0);
+   }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:768px){
+
+ .dp{
+    height: 290px !important;
+ }
+ .poto{
+    height:290px !important;
+ }
+ .poto1{
+   height:330px !important;
+ }
+
+
+}
+
+   
+

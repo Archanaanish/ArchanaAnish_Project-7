@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif!important;
+   }
+  
+nav{
+   background-color:rgb(23, 20, 173);
+   
+}
+
+h2{
+   color:white
+}
+.img1{
+   width:15%;
+}
+#collapse{
+ box-shadow:0 2px 2px 1px black;
+   margin-top:10%;
+  
+}
+ #colbtn{
+   font-size: small;
+   margin-top:20px;
+   background-color:rgb(23, 20, 173);;
+   color:white;
+ }
+ .container1-fluid{
+    background-image:url(images/pic24.jpg);
+    min-height: 70vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position:bottom;
+
+ }
+ .p1{
+     font-size: small;
+ }
+ 
+ #f1, #s1, #b1{
+    padding-top: 8%;
+   }
+  
+  .container2-fluid{
+    background-image:url(images/pic13.jpg);
+    min-height:90vh;
+    background-size: cover;
+
+   }
+   .row4{
+    background-color: rgb(48, 46, 46);
+    opacity: 0.8;
+    min-height: 40vh;
+    margin-top: 5%;
+    display: flex;
+    margin-top: 8%;
+    color: white;
+   
+    
+  }
+  #cobg, #cob{
+     width:47%;
+     
+  }
+ .start{
+    margin-top:-12px;
+   position:relative;
+ }
+  
+ 
+ .relative{
+    position: relative;
+ }
+ .absolute{
+    position: absolute;
+ }
+ .img2{
+    width:100%;
+   
+   }
+   .review i {
+      color: rgb(0, 216, 162);
+      font-size: 15px;
+  }
+  .review img{
+      margin-top: -5px;
+  }
+  
+ 
+  
+ #book, #sub{
+   font-size:30px;
+
+ }
+ #sub{
+   color: rgb(36, 58, 14);
+ }
+ #cont{
+   background-color:rgb(36, 58, 14);
+ }
+ #main{
+   width:24%;
+ }
+ .info{
+   color: white;
+   font-size:10px;
+   margin-top:20px;
+   
+ }
+ .col1{
+   width:20%;
+   
+ }
+ .head{
+   color:rgb(50, 163, 50);
+   
+ }
+ ul li{
+  list-style: none;
+  line-height:50px;
+  font-size:small;
+  color:white;
+ }
+ .icon{
+   color: white;
+   font-size: larger;
+ }
+ #brk1, #bk, #rk3 {
+   font-size: small;
+ }
+ form input{
+   border-radius:0 !important;
+   height: 35px;
+   font-size: 12px !important;
+}
+form .col-12{
+   margin: 10px 0;
+}
+.textarea input{
+   height: 120px;
+}
+ 
+  
+
+
+
+    @media only screen and (min-width:768px){
+
+      .img2{
+         height:114px !important;
+      }
+      #pic2{
+         height:114px !important;
+      }
+       
+    }
+    @media only screen and (min-width:992px){
+
+      .img2{
+         height:149px !important;
+      }
+      #pic2{
+         height:149px !important;
+      }
+   }
+      @media only screen and (min-width:1200px){
+
+         .img2{
+            height:206px !important;
+         }
+       #pic2{
+          height:204px !important;
+       }
+       
+    }
+
+ 
