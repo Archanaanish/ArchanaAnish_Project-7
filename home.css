@@ -218,9 +218,7 @@ i{
   width:60%;
   
 }
-     img{
-  width: 80%;
-}
+     
 
 }
 @media only screen and (max-width:576px){
@@ -235,9 +233,7 @@ i{
     width:60%;
     
   }
-     img{
-  width: 80%;
-}
+    
 }
 @media only screen and (max-width:500px){
 
@@ -258,9 +254,7 @@ i{
       height:430px;
 
     }
-           img{
-  width: 70%;
-}
+         
 }
 
 
