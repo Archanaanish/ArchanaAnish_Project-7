@@ -219,7 +219,7 @@ i{
   
 }
      img{
-  width: 70%;
+  width: 80%;
 }
 
 }
@@ -236,7 +236,7 @@ i{
     
   }
      img{
-  width: 70%;
+  width: 80%;
 }
 }
 @media only screen and (max-width:500px){
@@ -259,7 +259,7 @@ i{
 
     }
            img{
-  width: 60%;
+  width: 70%;
 }
 }
 
