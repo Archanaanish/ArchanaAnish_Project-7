@@ -13,7 +13,7 @@ h2{
     color:white
 }
 img{
-    width:15%;
+    width:25%;
 }
 #collapse{
   box-shadow:0 2px 2px 1px black;
@@ -218,6 +218,9 @@ i{
   width:60%;
   
 }
+     img{
+  width: 70%;
+}
 
 }
 @media only screen and (max-width:576px){
@@ -232,6 +235,9 @@ i{
     width:60%;
     
   }
+     img{
+  width: 70%;
+}
 }
 @media only screen and (max-width:500px){
 
@@ -252,6 +258,9 @@ i{
       height:430px;
 
     }
+           img{
+  width: 60%;
+}
 }
 
 
